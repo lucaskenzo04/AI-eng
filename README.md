@@ -3,8 +3,8 @@
 
 ### INFORMAÇÕES DOS INTEGRANTES
 
-Nome: ________ 
-RM: ________
+Nome: Lucas Kenzo________ 
+RM: 94255________
 
 Nome: ________
 RM: ________
@@ -12,7 +12,7 @@ RM: ________
 Nome: ________
 RM: ________
 
-LINK DO VIDEO: ____________________
+LINK DO VIDEO: https://www.youtube.com/watch?v=dGe0ZIacV9Y
 
 ## Visão Computacional para Assistência ao Motorista
 
