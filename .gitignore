@@ -1,0 +1,45 @@
+#diretorios
+.pytest_cache
+solucoes
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CPython
+*.pyd
+*.pyo
+*.egg-info
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+*.venv
+venv.bak/
+.venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Others
+*.bak
+*.swp
+*.swo
+*.swn
